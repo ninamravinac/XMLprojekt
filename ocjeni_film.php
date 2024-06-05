@@ -22,7 +22,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Ocjeni film</title>
+    <title>Ocijeni film</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
     <style>
         body {
@@ -55,7 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
 <div class="container mt-4">
-    <h1>Ocjeni film</h1>
+    <h1>Ocijeni film</h1>
     <form method="POST" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
         <div class="mb-3">
             <label for="naslovFilma" class="form-label">Naslov filma:</label>
@@ -65,7 +65,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <label for="ocjena" class="form-label">Ocjena (1-10):</label>
             <input type="number" class="form-control" id="ocjena" name="ocjena" min="1" max="10" required>
         </div>
-        <button type="submit" class="btn btn-primary">Ocjeni</button>
+        <button type="submit" class="btn btn-primary">Ocijeni</button>
     </form>
 </div>
 </body>

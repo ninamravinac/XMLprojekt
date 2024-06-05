@@ -76,7 +76,7 @@ $fontFamily = isset($_POST['font_family']) ? $_POST['font_family'] : 'Roboto';
                 <a class="btn btn-custom" href="index.php">Reset teme</a>
             </li>
             <li class="nav-item">
-                <a class="btn btn-custom" href="ocjeni_film.php">Ocjeni film</a>
+                <a class="btn btn-custom" href="ocjeni_film.php">Ocijeni film</a>
             </li>
             <li class="nav-item">
                 <a class="btn btn-custom" href="promjena_teme.php">Promjena teme</a>
