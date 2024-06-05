@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmovi>
+  <film id="1">
+    <slika>poster1.png</slika>
+    <naslov>Fight Club</naslov>
+    <redatelj>David Fincher</redatelj>
+    <zanr>Drama</zanr>
+    <godina_izlaska>1999</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="2">
+    <slika>poster2.png</slika>
+    <naslov>La La Land</naslov>
+    <redatelj>Damien Chazelle</redatelj>
+    <zanr>Romansa</zanr>
+    <godina_izlaska>2016</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="3">
+    <slika>poster3.png</slika>
+    <naslov>The Grand Budapest Hotel</naslov>
+    <redatelj>Wes Anderson</redatelj>
+    <zanr>Komedija</zanr>
+    <godina_izlaska>2014</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="4">
+    <slika>poster4.png</slika>
+    <naslov>The Lord of the Rings: The Fellowship of the Ring</naslov>
+    <redatelj>Peter Jackson</redatelj>
+    <zanr>Avantura</zanr>
+    <godina_izlaska>2001</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="5">
+    <slika>poster5.png</slika>
+    <naslov>Dead Poets Society</naslov>
+    <redatelj>Peter Weir</redatelj>
+    <zanr>Drama</zanr>
+    <godina_izlaska>1989</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="6">
+    <slika>poster6.png</slika>
+    <naslov>Titanic</naslov>
+    <redatelj>James Cameron</redatelj>
+    <zanr>Romansa</zanr>
+    <godina_izlaska>1997</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="7">
+    <slika>poster7.png</slika>
+    <naslov>Pride and Prejudice</naslov>
+    <redatelj>Joe Wright</redatelj>
+    <zanr>Romansa</zanr>
+    <godina_izlaska>2005</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="8">
+    <slika>poster8.png</slika>
+    <naslov>The Big Lebowski</naslov>
+    <redatelj>Joel Coen</redatelj>
+    <zanr>Komedija</zanr>
+    <godina_izlaska>1998</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="9">
+    <slika>poster9.png</slika>
+    <naslov>Casablanca</naslov>
+    <redatelj>Michael Curtiz</redatelj>
+    <zanr>Romansa</zanr>
+    <godina_izlaska>1942</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="10">
+    <slika>poster10.png</slika>
+    <naslov>Pirates of the Caribbean: The Curse of the Black Pearl</naslov>
+    <redatelj>Gore Verbinski</redatelj>
+    <zanr>Akcija</zanr>
+    <godina_izlaska>2003</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="11">
+    <slika>poster11.png</slika>
+    <naslov>Pulp Fiction</naslov>
+    <redatelj>Quentin Tarantino</redatelj>
+    <zanr>Triler</zanr>
+    <godina_izlaska>1994</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="12">
+    <slika>poster12.png</slika>
+    <naslov>Spider-Man: Into the Spider-Verse</naslov>
+    <redatelj>Rodney Rothman</redatelj>
+    <zanr>Animacija</zanr>
+    <godina_izlaska>2018</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="13">
+    <slika>poster13.png</slika>
+    <naslov>American Psycho</naslov>
+    <redatelj>Mary Harron</redatelj>
+    <zanr>Triler</zanr>
+    <godina_izlaska>2000</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="14">
+    <slika>poster14.png</slika>
+    <naslov>Shrek</naslov>
+    <redatelj>Andrew Adamson</redatelj>
+    <zanr>Animacija</zanr>
+    <godina_izlaska>2001</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="15">
+    <slika>poster15.png</slika>
+    <naslov>10 Things I Hate About You</naslov>
+    <redatelj>Gil Junger</redatelj>
+    <zanr>Romansa</zanr>
+    <godina_izlaska>1999</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+  </film>
+  <film id="16">
+    <slika>poster16.png</slika>
+    <naslov>The Dark Knight</naslov>
+    <redatelj>Christopher Nolan</redatelj>
+    <zanr>Akcija</zanr>
+    <godina_izlaska>2008</godina_izlaska>
+    <ocjena>Nema ocjene</ocjena>
+   </film>
+  </filmovi>
